@@ -16,7 +16,11 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 98aff412b2d7748b596a0e70c6c0180f
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 9c6bcbbabc3c6334abbbc87aae96e322
+    m_Address: Assets/Game/Tutorial/Content/8.GetReward/PopupMissions Variant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: b9a595f24937c4006b7d9469b06533f1, type: 2}
   m_SchemaSet:
