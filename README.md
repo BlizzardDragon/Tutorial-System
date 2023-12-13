@@ -24,7 +24,7 @@
 - Assets\Game\Tutorial\Content\
   
 ### Удаление папки Tutorial
-Вместе с удалением папки Tutorial также необходимо удалить задачу загрузки обучения в ScriptableObject "*GameLaunch (Pipeline)*".
+Вместе с удалением папки Tutorial также необходимо удалить задачу загрузки обучения (см. скрин) в "*GameLaunch (Pipeline)*" (ScriptableObject).
 
 <img src="Assets/Resources/GameLaunch.png" width="300">
 
